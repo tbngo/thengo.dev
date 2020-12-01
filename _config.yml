@@ -1,5 +1,6 @@
 title: The Ngo
 description: CS Student @ Columbia
+logo: /the.jpg
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
