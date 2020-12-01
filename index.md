@@ -6,7 +6,7 @@ layout: default
 ## Links
 - [GitHub](https://github.com/thengo1)
 - [LinkedIn](https://www.linkedin.com/in/thengo/)
-- [Resume](./resume.html)
+- [Resume](./resume.pdf)
 
 ---
 
