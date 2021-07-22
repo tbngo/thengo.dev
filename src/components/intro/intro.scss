@@ -1,3 +1,22 @@
+@import "../../global.scss";
+
 .intro {
-  background-color: lightsteelblue;
+  background-color: $mainColor;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  h1 {
+    margin-bottom: 30px;
+  }
+
+  p {
+    font-weight: 300;
+    margin-bottom: 7px;
+
+    span {
+      color: $color4;
+    }
+  }
 }
